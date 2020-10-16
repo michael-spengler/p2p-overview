@@ -10,7 +10,7 @@
       Your browser does not support the video tag.
     </video>
     <p></p>
-    <h4>Skeletons for each component</h4>
+    <h4>Potential skeletons for each component</h4>
     <ul>
       <li>
         <a
