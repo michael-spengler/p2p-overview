@@ -1,0 +1,11 @@
+name: CICD
+
+on:
+  issue_comment: # change this depending on which event you want to react
+    types: [created] 
+
+jobs:
+  cicd:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: michael-spengler/github-action-cicd@v0.0.1
